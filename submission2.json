@@ -1,0 +1,7 @@
+{
+  "prompt": "A close-up, intimate still-life photograph on a wooden desk. A thick stack of white paper sheets, slightly fanned and peeled back one by one to reveal each layer beneath. On the top sheet, a bold dark circular ink stamp impression — rich, dense, fully saturated black. The second sheet beneath shows a slightly fainter impression of the same circle, transferred through pressure. The third sheet fainter still. Each successive sheet pulled back reveals a progressively ghostlier, thinner impression of the original stamp — by the fifth or sixth sheet the impression is barely a whisper of grey, almost invisible against the white paper. The bottom sheets show almost nothing — not blank, just starved of signal. Warm intimate desk lamp lighting from the side. Shot from slightly above, close and precise, like a scientific observation. Photorealistic, fine detail on paper texture and ink bleed. No text, no letters, no words, no numbers, no diagrams, no floating elements, no annotations, no mathematical symbols. Negative: No text, no letters, no words, no handwriting, no neural networks, no glowing effects, no computers, no sci-fi aesthetics, no arrows, no diagrams, no infographic elements, no equations.",
+  "model": "DALL·E 3",
+  "concept": "Vanishing Gradients",
+  "metaphor": "Ink pressed through stacked paper sheets decays exponentially with depth — top sheets receive full signal, bottom sheets almost nothing, mirroring how gradients shrink through network layers.",
+  "publish_email": true
+}
